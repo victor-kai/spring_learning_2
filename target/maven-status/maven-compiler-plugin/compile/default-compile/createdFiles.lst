@@ -1,0 +1,5 @@
+com\anz\domain\Students.class
+com\anz\domain\Customer.class
+com\anz\core\repository\CustomerRepository.class
+com\anz\core\repository\StudentsRepository.class
+com\anz\spring\SPRApplication.class
